@@ -1,6 +1,11 @@
 ## Neonizer
 
-**Neonizer** is a React component that adds vibrant neon color effects to text content. Easily integrate this component into your React applications to create eye-catching, dynamic text displays with customizable color transitions.
+**Neonizer** is a React component that adds vibrant neon color effects to text content. Easily integrate this component into your React applications to create eye-catching, dynamic text 
+displays with customizable color transitions.
+
+## Demo
+
+![Neonizer Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjA1MWs0NTI0MHpjOHJhMjEzdHlzdHdocWZ2N3dvYzNtN2d2NjI1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PasBZ2p7dQOLJ0uANd/giphy.gif)
 
 ## Installation
 

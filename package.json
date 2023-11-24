@@ -1,6 +1,6 @@
 {
   "name": "neonizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Neonizer is a React component that adds vibrant neon color effects to text content. Easily integrate this component into your React applications to create eye-catching, dynamic text displays with customizable color transitions.",
   "main": "index.js",
   "scripts": {
